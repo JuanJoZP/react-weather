@@ -1,9 +1,8 @@
 # react-clima
-Proyecto de practica de React, aplicación de el clima que obtiene los datos de la API de OpenWeatherMap
+React practice project, a weather app using the OpenWeatherMap API
 
-## Uso
+## Get started
 
-* Clonar repositorio
 * ```npm i```
 * ```npm start```
-* Abrir en el navegador ```localhost:1234```
+* Open  ```localhost:1234```
